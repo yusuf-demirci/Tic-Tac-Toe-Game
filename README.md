@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 
-- Live Site URL: [https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/](https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/)
+Live Site URL: [https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/](https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
